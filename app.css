@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+}
+input
+{
+    margin: 10px;
+}
+#buttonSubmit
+{
+margin-top: 20px;
+margin-bottom: 20px;
+}
+#displayNameSemAspas
+{
+  border: 1px solid green;
+  padding: 10px;
+  background-color:darkgreen;
+  border-radius: 10px ;
+}
+#displayNameComAspas
+{
+  border: 1px solid blue;
+  padding: 10px;
+  background-color:darkblue;
+  border-radius:10px ;
+}
